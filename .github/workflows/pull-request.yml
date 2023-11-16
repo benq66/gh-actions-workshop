@@ -25,4 +25,4 @@ jobs:
     # Each job can have multiple steps. These will be run in sequence.
     steps:
       - name: Hello world action step
-        run: echo "Hello í¼!"
+        run: echo "Hello ğŸŒ!"
